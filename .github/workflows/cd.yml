@@ -20,4 +20,4 @@ jobs:
           go-version: "1.20"
 
       - name: Build the binary
-        run: ./script/buildprod.sh
+        run: ./scripts/buildprod.sh
